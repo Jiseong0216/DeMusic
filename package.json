@@ -1,0 +1,27 @@
+{
+  "name": "demusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "dotenv": "^8.2.0",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "java -jar Lavalink.jar",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiseong0216/DeMusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiseong0216/DeMusic/issues"
+  },
+  "homepage": "https://github.com/Jiseong0216/DeMusic#readme"
+}

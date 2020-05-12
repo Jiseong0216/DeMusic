@@ -1,0 +1,9 @@
+{
+    "client": {
+        "shard": {
+            "respawn": true,
+            "count": "auto",
+            "delay": 7500
+        }
+    }
+}
